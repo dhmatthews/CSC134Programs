@@ -1,0 +1,17 @@
+Aloysius   Alfalfa    Customer rating is good. Favorite: oreo.
+Francis    Alfred     Customer rating is good. Favorite: chocolate.
+Gramma     Gerty      Customer rating is ok. Favorite: banana.
+Alexis     Android    Customer rating is good. Favorite: strawberry.
+Fred       Bumpkin    Customer rating is ok. Favorite: banana.
+Betty      Rubble     Customer rating is ok. Favorite: chocolate.
+Cecil      Noshow     Customer rating is ok. Favorite: oreo.
+Bif        Buff       Customer rating is ok. Favorite: oreo.
+Andrew     Airpump    Customer rating is good. Favorite: chocolate.
+Jim        Backus     Customer rating is excellent. Favorite: strawberry.
+
+Totals for each flavor:
+Vanilla count: 0
+Chocolate count: 3
+Strawberry count: 2
+Banana count: 2
+Oreo count: 3
