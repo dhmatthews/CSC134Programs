@@ -1,0 +1,10 @@
+Alfalfa   Aloysius   1236789    3.9  2.8 
+Alfred    Francis    1231234    3.3  4.0 
+Gerty     Gramma     5670123    4.0  3.8
+Android   Alexis     0874321    2.2  2.6
+Bumpkin   Fred       4569012    4.0  3.2
+Rubble    Betty      2347890    1.7  3.9
+Noshow    Cecil      3458901    2.5  2.5
+Buff      Bif        6329939    3.4  2.8
+Airpump   Andrew     2236789    3.1  2.7
+Backus    Jim        1431234    3.8  2.6
